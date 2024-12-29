@@ -1,0 +1,15 @@
+# Virtual environment
+myenv/
+
+# Data and dataset files
+data/
+classification/dataset.npz
+
+# Python cache files
+__pycache__/
+classification/__pycache__/
+*.pyc
+
+# IDE/Editor specific files
+.idea/
+.vscode/
